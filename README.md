@@ -1,23 +1,20 @@
 # icarusMods
 
+BEAST MINERAL EXTRACTION
+
 **Thoughts behind this Mod**
 
-Late game to me has felt like a sim where I just run to 1 deep mining vein after another collecting resources.  Skipping the hunting part that I enjoy so much in the early/mid game.  So on top of those trips, I wanted the kills to actually feel rewarding.  I also felt like the Material Processor is completely underrated for its name, so I wanted to make better use of it.  So I added the following recipes:
+Late game to me has felt like a sim where I just run to 1 deep mining vein after another collecting resources.  Skipping the hunting part mostly and finding the animals to be annoying.  So on top of those trips, I wanted the kills to actually feel rewarding.  I also felt like the Material Processor is completely underrated for its name, so I wanted to make better use of it. This mod adds the following, including some QoL for excess Charcoal and the need for Oxite
 
-* Extract the minerals within creatures' bones to ore's
+* When destroying the animal bones from a killed creature, recieve "Trace Minerals" as a reward, scaled by bone harvesting
+* From the Mortar and Pestel or Material Processor, convert the trace Minerals into raw ores (Faster and more efficient in the Material Processer)
 * Convert charcoal into Coal Ore
-* Extract oxite from fish
-* Combine Fiber and Reed's to create Oxite
-* Extract the left over bones from Raw meat
+* Extract oxite from fish (Material Processor Only)
+* Create oxite from Fiber and Reed Flowers (Material Processor Only)
 
-12/30/2022
 
-Added
-* Convert Bones to precious Ore's
-* Convery Fish to oxite
-* Convert Charcoal to Coal Ore
-* Convert Raw Meat to bones
-* Convert Reed's and Fiber to oxite
+
+
 
 
 Thanks everyone on the Linkarus Discord for the details on how to do things like this and Jimk72 for the ModManager
