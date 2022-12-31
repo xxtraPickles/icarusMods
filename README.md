@@ -14,3 +14,6 @@ Added
 * Convert Bones to precious Ore's
 * Convery Fish to oxite
 * Convert Charcoal to Coal Ore
+
+
+Thanks everyone on the Linkarus Discord for the details on how to do things like this and Jimk72 for the ModManager
