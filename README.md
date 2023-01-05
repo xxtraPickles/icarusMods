@@ -2,7 +2,7 @@
 
 BEAST MINERAL EXTRACTION
 
-**Thoughts behind this Mod**
+"RowName": "None",
 
 Late game to me has felt like a sim where I just run to 1 deep mining vein after another collecting resources.  Skipping the hunting part mostly and finding the animals to be annoying.  So on top of those trips, I wanted the kills to actually feel rewarding.  I also felt like the Material Processor is completely underrated for its name, so I wanted to make better use of it. This mod adds the following, including some QoL for excess Charcoal and the need for Oxite
 
@@ -11,6 +11,11 @@ Late game to me has felt like a sim where I just run to 1 deep mining vein after
 * Convert charcoal into Coal Ore
 * Extract oxite from fish (Material Processor Only)
 * Create oxite from Fiber and Reed Flowers (Material Processor Only)
+
+
+**Update 1/4/2023**
+* Overhauled drop and conversion rates
+* Should be possible to sustain ores from just killing animals now instead of mining
 
 
 
