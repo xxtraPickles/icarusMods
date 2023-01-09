@@ -2,7 +2,11 @@
 
 BEAST MINERAL EXTRACTION
 
-"RowName": "None",
+**Update 1/8/2023**
+* Added recipes for more basic resources like wood, stone and bone to reduce the need to mine the environment impacting performance
+* Added slow spoil rate and storage size for refrigerators
+
+
 
 Late game to me has felt like a sim where I just run to 1 deep mining vein after another collecting resources.  Skipping the hunting part mostly and finding the animals to be annoying.  So on top of those trips, I wanted the kills to actually feel rewarding.  I also felt like the Material Processor is completely underrated for its name, so I wanted to make better use of it. This mod adds the following, including some QoL for excess Charcoal and the need for Oxite
 
