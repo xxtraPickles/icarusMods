@@ -7,7 +7,7 @@ BEAST MINERAL EXTRACTION
 * Added slow spoil rate and storage size for refrigerators
 
 Updated Summary 1/8/20323:
-Material Processor and the Mortar Pestel can process Trace Minerals dropped by haversting animal bones.  The Trace Minerals are more like a currency that you can process into just about any ore/resource you need.  The quantity and speed of this process means you don't have to mine for ores and most resource at all if you don't want to, instead progressing by hunting and haversting the trace minerals.
+Material Processor and the Mortar Pestel can process Trace Minerals dropped by haversting animal bones.  The Trace Minerals are more like a currency that you can process into just about any ore/resource you need.  The quantity and speed of this process means you don't have to mine for ores and most resources at all if you don't want to, instead progressing by hunting and haversting the trace minerals.
 
 
 Old:
